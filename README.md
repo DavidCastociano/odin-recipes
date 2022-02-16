@@ -6,4 +6,4 @@ In this HTML project I will be demonstrating a basic understanding of the fundam
 -understand how elements work and MAKE SURE THEY ARE PROPERLY BRACKETED.
 -body structure with proper paragraph usage.
 -an understanding in how ordered lists and unordererd lists work.
--a better understanding of git basics in order internalize normal workflow
+-a better understanding of git basics in order internalize normal workflow.
